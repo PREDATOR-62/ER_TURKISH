@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "release_notes": "Bazı NPC diyaloglarındaki hatalar düzeltildi.",
+  "patch_base_url": "https://raw.githubusercontent.com/PREDATOR-62/ER_TURKISH/main/patches/patch_base.enc",
+  "patch_dlc_url": "https://raw.githubusercontent.com/PREDATOR-62/ER_TURKISH/main/patches/patch_dlc.enc"
+}
