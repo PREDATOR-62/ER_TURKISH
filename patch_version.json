@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "3.0",
   "release_notes": "NPC diyaloglarında ve arayüz metinlerinde geliştirmeler yapıldı.",
   "patch_base_url": "https://raw.githubusercontent.com/PREDATOR-62/ER_TURKISH/refs/heads/main/data/patch_base.enc",
   "patch_dlc_url": "https://raw.githubusercontent.com/PREDATOR-62/ER_TURKISH/refs/heads/main/data/patch_dlc.enc"
